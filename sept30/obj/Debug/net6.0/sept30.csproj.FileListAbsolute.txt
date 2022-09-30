@@ -1,0 +1,15 @@
+C:\Users\pc\Documents\softwareDev\sept30\bin\Debug\net6.0\sept30.exe
+C:\Users\pc\Documents\softwareDev\sept30\bin\Debug\net6.0\sept30.deps.json
+C:\Users\pc\Documents\softwareDev\sept30\bin\Debug\net6.0\sept30.runtimeconfig.json
+C:\Users\pc\Documents\softwareDev\sept30\bin\Debug\net6.0\sept30.dll
+C:\Users\pc\Documents\softwareDev\sept30\bin\Debug\net6.0\sept30.pdb
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.AssemblyInfo.cs
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.dll
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\refint\sept30.dll
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.pdb
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\sept30.genruntimeconfig.cache
+C:\Users\pc\Documents\softwareDev\sept30\obj\Debug\net6.0\ref\sept30.dll

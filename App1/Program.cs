@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace App1
 {
@@ -14,7 +15,7 @@ namespace App1
         static int Circuit(int[] a, int[] b)
         {
             int startPoint = -1;
-            for(int i = 0; i < a.Length; i++)
+            for(int i = 0; i < a.Length-1; i++)
             {
                 int sum = 0;
                 for(int j = i; j <= a.Length + i ; j++)
